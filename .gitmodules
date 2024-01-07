@@ -1,0 +1,18 @@
+[submodule "generic2ndbest"]
+	path = generic2ndbest
+	url = https://github.com/marco-croce/generic2ndbest
+[submodule "noleggioveicoliunivaq"]
+	path = noleggioveicoliunivaq
+	url = https://github.com/marco-croce/noleggioveicoliunivaq
+[submodule "aulewebREST"]
+	path = aulewebREST
+	url = https://github.com/marco-croce/aulewebREST
+[submodule "auleweb"]
+	path = auleweb
+	url = https://github.com/marco-croce/auleweb
+[submodule "noleggioveicoli"]
+	path = noleggioveicoli
+	url = https://github.com/marco-croce/noleggioveicoli
+[submodule "cacheout"]
+	path = cacheout
+	url = https://github.com/marco-croce/cacheout
